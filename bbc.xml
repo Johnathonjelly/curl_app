@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>http://www.bbc.co.uk/news/</link>
+        <image>
+            <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>http://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Wed, 03 May 2017 18:08:03 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[FBI head 'nauseous' over his possible sway on US election]]></title>
+            <description><![CDATA[But James Comey defends his decision to reveal a renewed probe into Hillary Clinton emails.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39795325</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39795325</guid>
+            <pubDate>Wed, 03 May 2017 16:11:01 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/986B/production/_95891093_ec96ca13-193b-460c-b3ab-48d5c25f3ba1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Le Pen and Macron to face off in French election debate]]></title>
+            <description><![CDATA[The two presidential candidates will take part in a TV debate seen as the climax of a bitter campaign.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39791175</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39791175</guid>
+            <pubDate>Wed, 03 May 2017 11:12:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8E56/production/_95783463_frafprivalscombo23apr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Facebook hires 3,000 to spot violent videos]]></title>
+            <description><![CDATA[Mark Zuckerberg said it had been "heartbreaking" to hear of murder and suicide broadcast on Facebook.]]></description>
+            <link>http://www.bbc.co.uk/news/technology-39793175</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-39793175</guid>
+            <pubDate>Wed, 03 May 2017 15:01:21 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14577/production/_95891338_mediaitem95891337.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Syria war: Putin says 'safe zones' have international support]]></title>
+            <description><![CDATA[Russia, the US, Turkey, Iran and Syria all support the plan, the Russian president says.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-39797904</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-39797904</guid>
+            <pubDate>Wed, 03 May 2017 16:02:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0A45/production/_95892620_mediaitem95892561.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Egyptian Saad Mohammed creates 700 metre Koran by hand]]></title>
+            <description><![CDATA[Saad Mohammed is hopeful his painstakingly-created scroll qualifies as a Guinness World Records.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-39796225</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-39796225</guid>
+            <pubDate>Wed, 03 May 2017 16:25:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CA6B/production/_95891815_3d0c4059-5d90-4032-be8b-c07774e4cbea.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump tells Abbas 'very good chance' of Mid-East peace deal]]></title>
+            <description><![CDATA[In a White House news conference with the Palestinian leader, Mr Trump said: "We will get this done".]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-39791715</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-39791715</guid>
+            <pubDate>Wed, 03 May 2017 18:07:14 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/93CF/production/_95893873_974768d9-0f71-4543-875c-415d955d7ce2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brad Pitt reveals therapy after divorce from Angelina Jolie]]></title>
+            <description><![CDATA[The actor also said he has quit drinking since his split from Angelina Jolie.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39792720</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39792720</guid>
+            <pubDate>Wed, 03 May 2017 16:44:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B016/production/_95887054_pittresizegett.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kabul bomb attack targeting Nato convoy kills eight]]></title>
+            <description><![CDATA[So-called Islamic State says a suicide bomber carried out the explosion that killed eight civilians.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-39789732</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-39789732</guid>
+            <pubDate>Wed, 03 May 2017 09:35:58 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1728/production/_95882950_4fe1d257-7e2b-4847-8c4d-da1fa5919579.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mississippi mortuary sued for 'refusing gay man's funeral']]></title>
+            <description><![CDATA[A gay man says the mortuary refused to bury his husband, but its co-owner strongly denies the claim.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39795569</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39795569</guid>
+            <pubDate>Wed, 03 May 2017 14:47:50 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12759/production/_95890657_mediaitem95888939.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Philippines: Regina Lopez, mine-closing environment minister, sacked]]></title>
+            <description><![CDATA[Ex-environment minister Regina Lopez says "business interests" have "manoeuvred the decision".]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-39797113</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-39797113</guid>
+            <pubDate>Wed, 03 May 2017 16:08:56 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/162B9/production/_95890809_hi039286238.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Iran coal mine explosion: Up to 40 trapped in Golestan]]></title>
+            <description><![CDATA[They are believed to be 1,800m underground and in danger from volatile gases.]]></description>
+            <link>http://www.bbc.co.uk/news/world-middle-east-39793108</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-middle-east-39793108</guid>
+            <pubDate>Wed, 03 May 2017 17:16:17 GMT</pubDate>
+            <media:thumbnail width="840" height="472" url="http://c.files.bbci.co.uk/9BDA/production/_95889893_844d3bd8-1596-4853-b66f-a34f36b6a3f3.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Playboy model volcano photo angers Maori]]></title>
+            <description><![CDATA[The Instagram post showed the model nude on top of a New Zealand mountain sacred to Maori.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-39789508</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-39789508</guid>
+            <pubDate>Wed, 03 May 2017 08:38:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1558E/production/_95883478_untitled-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Passenger explains airliner brawl]]></title>
+            <description><![CDATA[A fight broke out between two passengers on an LA-bound plane at Tokyo airport.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39788207</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39788207</guid>
+            <pubDate>Wed, 03 May 2017 05:39:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3DC0/production/_95880851_p051s8mt.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI Director Comey: 'Choice between real bad and catastrophic']]></title>
+            <description><![CDATA[FBI Director James Comey agonised over whether to reveal investigation into Hillary Clinton's emails.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39798517</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39798517</guid>
+            <pubDate>Wed, 03 May 2017 15:45:28 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/54CC/production/_95880712_p051vhx2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Washed up whale 'most contaminated' on record]]></title>
+            <description><![CDATA[Lulu the killer whale had 20 times the expected level of banned chemicals known as PCBs in her system.]]></description>
+            <link>http://www.bbc.co.uk/news/science-environment-39788999</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-39788999</guid>
+            <pubDate>Wed, 03 May 2017 04:59:41 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15926/production/_95885388_d7e8be1a-d544-48bc-aa62-aae54fd0eea2.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Venezuela protesters block city streets]]></title>
+            <description><![CDATA[Protesters are unhappy with the president's changes to the constitution.]]></description>
+            <link>http://www.bbc.co.uk/news/world-latin-america-39787542</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-latin-america-39787542</guid>
+            <pubDate>Tue, 02 May 2017 22:34:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/136F8/production/_95880697_p051schc.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Boston bomb survivor: I’m marrying firefighter who saved me]]></title>
+            <description><![CDATA[A Boston marathon bomb survivor has told BBC Radio 5 live she is set to marry the firefighter who saved her life.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39791325</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39791325</guid>
+            <pubDate>Wed, 03 May 2017 08:11:14 GMT</pubDate>
+            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/1539A/production/_95883968_p051rl1d.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Orlando Bloom explains why he would love to play James Bond]]></title>
+            <description><![CDATA[The actor, who stars in new spy thriller Unlocked, says he would play 007 as a "very English" spy but "with a twinkle" in his eye.]]></description>
+            <link>http://www.bbc.co.uk/news/entertainment-arts-39786908</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39786908</guid>
+            <pubDate>Wed, 03 May 2017 07:14:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/11BFA/production/_95889627_p051sysd.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Australian girl, four, saves injured mother by calling emergency service]]></title>
+            <description><![CDATA[The girl called Australian emergency services to rescue her mother, trapped after an accident.]]></description>
+            <link>http://www.bbc.co.uk/news/world-australia-39792627</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-australia-39792627</guid>
+            <pubDate>Wed, 03 May 2017 11:37:23 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/362C/production/_95886831_078b791f-261e-4cba-9261-bc4a597cf135.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Did Melania 'like' tweet mocking Trump?]]></title>
+            <description><![CDATA[Mrs Trump's official account - not used since November - suddenly liked a controversial tweet.]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39790512</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39790512</guid>
+            <pubDate>Wed, 03 May 2017 08:09:41 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/F76A/production/_95883336_fa9f90fb-3d01-47dc-8800-a96a32a8d78f.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Losing Kenyan candidates rush to stand as independents]]></title>
+            <description><![CDATA[Hundreds resign their political parties after losing out in primaries so they can still stand in August's election.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-39792062</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-39792062</guid>
+            <pubDate>Wed, 03 May 2017 12:15:05 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7E20/production/_95888223_gettyimages-163084776.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Potatoes, not pot for Vanuatu islanders]]></title>
+            <description><![CDATA[Police give away free gardening tools to steer youth away from growing marijuana on the island's fertile soil.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-39792055</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-39792055</guid>
+            <pubDate>Wed, 03 May 2017 09:51:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1BF6/production/_95885170_gettyimages-632754324.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Free meals for insulted taxi drivers in Singapore]]></title>
+            <description><![CDATA[A Singaporean restaurant owner apologises for rude behaviour by offering drivers free meals for a day.]]></description>
+            <link>http://www.bbc.co.uk/news/blogs-news-from-elsewhere-39779406</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/blogs-news-from-elsewhere-39779406</guid>
+            <pubDate>Tue, 02 May 2017 14:10:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1420F/production/_95874428_edd9798c-4086-4c2c-a146-452bb627528c.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['We can cure you']]></title>
+            <description><![CDATA[So-called "cures" dismissed by experts - such as hypnosis and drugs - are used for homosexuality in Russia.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39777612</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39777612</guid>
+            <pubDate>Tue, 02 May 2017 23:19:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E142/production/_95866675_rusgayrightsafp2013.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Judge-mental]]></title>
+            <description><![CDATA[An unprecedented crisis has hit the judiciary, with accusations of corruption and mental illness.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-39778698</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-39778698</guid>
+            <pubDate>Tue, 02 May 2017 23:21:49 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3EB8/production/_95865061_mediaitem95865060.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Bollywood killer]]></title>
+            <description><![CDATA[It is an epic historical film, but also a chance for south Indian film fans to mock Bollywood.]]></description>
+            <link>http://www.bbc.co.uk/news/world-asia-india-39777539</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-asia-india-39777539</guid>
+            <pubDate>Wed, 03 May 2017 10:25:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/14D0A/production/_95885258__84172102_bahubali1-spicepr.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trumplomacy]]></title>
+            <description><![CDATA[It's been a confusing few weeks of rhetoric and actions on the part of North Korea and the US. What's different this time?]]></description>
+            <link>http://www.bbc.co.uk/news/world-us-canada-39774675</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-us-canada-39774675</guid>
+            <pubDate>Tue, 02 May 2017 18:11:32 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4DAF/production/_95878891_hi039264960.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA['Finding my fortune']]></title>
+            <description><![CDATA[The BBC's Umaru Fofana tells how diamond mining helped give him his start in life.]]></description>
+            <link>http://www.bbc.co.uk/news/world-africa-39478462</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-africa-39478462</guid>
+            <pubDate>Tue, 02 May 2017 23:36:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/17E41/production/_95875879_5.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Le monde]]></title>
+            <description><![CDATA[On foreign policy, the choice in the French election is between nationalism or internationalism.]]></description>
+            <link>http://www.bbc.co.uk/news/world-europe-39778211</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-39778211</guid>
+            <pubDate>Tue, 02 May 2017 23:17:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/20A5/production/_95875380_mediaitem95875379.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[For those in peril]]></title>
+            <description><![CDATA[After a surfer was rescued following 32 hours at sea, here are other famous maritime survival cases.]]></description>
+            <link>http://www.bbc.co.uk/news/world-39783347</link>
+            <guid isPermaLink="true">http://www.bbc.co.uk/news/world-39783347</guid>
+            <pubDate>Tue, 02 May 2017 21:58:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1738E/production/_95881159_gettyimages-71692499.jpg"/>
+        </item>
+    </channel>
+</rss>

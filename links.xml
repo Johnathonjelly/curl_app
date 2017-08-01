@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title><![CDATA[BBC News - UK Politics]]></title>
+    <description><![CDATA[BBC News - UK Politics]]></description>
+    <link>http://www.bbc.co.uk/news/</link>
+    <image>
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+      <title>BBC News - UK Politics</title>
+      <link>http://www.bbc.co.uk/news/</link>
+    </image>
+    <generator>RSS for Node</generator>
+    <lastBuildDate>Tue, 02 May 2017 20:23:28 GMT</lastBuildDate>
+    <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+    <language><![CDATA[en-gb]]></language>
+    <ttl>15</ttl>
+    <item>
+      <title><![CDATA[Brexit: Theresa May says she'll be 'bloody difficult' to Juncker]]></title>
+      <description><![CDATA[Theresa May responds to claims she clashed with the EU Commission chief over Brexit.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39784170</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39784170</guid>
+      <pubDate>Tue, 02 May 2017 19:09:03 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/374D/production/_95875141_de52-1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Diane Abbott says she 'misspoke' on Labour's police policy]]></title>
+      <description><![CDATA[Diane Abbott insists she can be trusted after getting the cost wrong of Labour's policing pledge.]]></description>
+      <link>http://www.bbc.co.uk/news/election-2017-39775693</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/election-2017-39775693</guid>
+      <pubDate>Tue, 02 May 2017 13:59:20 GMT</pubDate>
+      <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/EE44/production/_95869906_mediaitem95869905.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[General Election 2017: Nick Clegg sets out Lib Dem EU Remain bid]]></title>
+      <description><![CDATA[The ex-deputy PM says the Lib Dems would hold a referendum on any Brexit deal - and campaign to Remain.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39784164</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39784164</guid>
+      <pubDate>Tue, 02 May 2017 17:12:47 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/144D5/production/_95875138_de27-1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brexit leads first Evening Standard under George Osborne]]></title>
+      <description><![CDATA[Relations between the PM and EU lead the Evening Standard on the ex-chancellor's first day as editor.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-39782600</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39782600</guid>
+      <pubDate>Tue, 02 May 2017 17:40:21 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/67DA/production/_95868562_osborne_standard.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[General Election 2017: Greens pledge second Brexit poll]]></title>
+      <description><![CDATA[Voters should be able to vote on any deal, with option to stay in the EU, says Green Party's sole MP.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39784314</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39784314</guid>
+      <pubDate>Tue, 02 May 2017 15:19:37 GMT</pubDate>
+      <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/2EDC/production/_95869911_mediaitem95869910.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[General election 2017: Pat Finucane's son set to stand]]></title>
+      <description><![CDATA[John Finucane is nominated to run for Sinn Féin in North Belfast in June's general election.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-northern-ireland-politics-39782057</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-northern-ireland-politics-39782057</guid>
+      <pubDate>Tue, 02 May 2017 18:37:06 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1805D/production/_95879389_1fin.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brexit: UK 'will not enter into briefing war' with EC]]></title>
+      <description><![CDATA[Senior EU sources warn Brexit talks could fail because of UK "ignorance" about how Brussels works.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39776710</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39776710</guid>
+      <pubDate>Tue, 02 May 2017 12:23:29 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CA18/production/_95863715_mediaitem95863714.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Local elections: Yscir - where no-one wants to stand]]></title>
+      <description><![CDATA[It is a picturesque part of Powys - but why does no-one want to represent Yscir?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-wales-politics-39560254</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-wales-politics-39560254</guid>
+      <pubDate>Tue, 02 May 2017 06:09:48 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/11F86/production/_95860637_nobody.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Nuclear oversight needs 'urgent' action, MPs say]]></title>
+      <description><![CDATA[The UK's fuel supply could be disrupted unless ministers act quickly over regulation, MPs say.]]></description>
+      <link>http://www.bbc.co.uk/news/business-39774062</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/business-39774062</guid>
+      <pubDate>Mon, 01 May 2017 23:24:39 GMT</pubDate>
+      <media:thumbnail width="1000" height="562" url="http://c.files.bbci.co.uk/85A8/production/_95861243_hinkley.deliveries.g.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[UK should not back US Middle-East policy, say peers]]></title>
+      <description><![CDATA[US President Donald Trump's unpredictable policies could destabilise the region, peers say.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-39775694</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39775694</guid>
+      <pubDate>Tue, 02 May 2017 04:03:50 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/16EDC/production/_95861939_mediaitem95861937.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[British territories' environment 'at risk']]></title>
+      <description><![CDATA[Overseas territories' ministers say Brexit is distracting the government from environmental issues.]]></description>
+      <link>http://www.bbc.co.uk/news/science-environment-39771047</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/science-environment-39771047</guid>
+      <pubDate>Tue, 02 May 2017 00:36:07 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5A7D/production/_95856132_img_7944agrcaymanblueiguana.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Council and mayoral elections: Are they being forgotten?]]></title>
+      <description><![CDATA[A million more people joined the electoral register in 2016. Will it make a difference?]]></description>
+      <link>http://www.bbc.co.uk/news/election-2017-39565288</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/election-2017-39565288</guid>
+      <pubDate>Mon, 01 May 2017 23:42:17 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/F8B8/production/_95627636_gettyimages-615844176.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Simon Danczuk MP fails in Labour election candidacy bid]]></title>
+      <description><![CDATA[Labour officials said Simon Danczuk would not be endorsed as a candidate in the general election.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-england-manchester-39777111</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-manchester-39777111</guid>
+      <pubDate>Tue, 02 May 2017 07:41:24 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4C03/production/_95695491_simondanczukbbc.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Labour pledges 'tougher' standards for rented houses]]></title>
+      <description><![CDATA[Landlords who fail to meet new minimum standards would face fines of up to £100,000.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39767961</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39767961</guid>
+      <pubDate>Mon, 01 May 2017 09:15:49 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5CAD/production/_95852732_gettyimages-519421718.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Social media giants 'shamefully far' from tackling illegal content]]></title>
+      <description><![CDATA[Social media giants are "shamefully far" from tackling illegal and dangerous content, say MPs.]]></description>
+      <link>http://www.bbc.co.uk/news/technology-39744016</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/technology-39744016</guid>
+      <pubDate>Mon, 01 May 2017 08:03:01 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1017B/production/_95851956_handsonphonegetty.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Reform 'high stakes' primary tests, MPs urge]]></title>
+      <description><![CDATA[High pressure tests narrow the curriculum in England and cause stress in pupils, say MPs.]]></description>
+      <link>http://www.bbc.co.uk/news/education-39745884</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/education-39745884</guid>
+      <pubDate>Mon, 01 May 2017 00:28:14 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9DF1/production/_95833404_thinkstockboywriting.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Sculptor Cornelia Parker named as 2017 election artist]]></title>
+      <description><![CDATA[Turner Prize-nominated artist Cornelia Parker becomes the fifth official election artist.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39768131</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39768131</guid>
+      <pubDate>Mon, 01 May 2017 08:25:47 GMT</pubDate>
+      <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/AD57/production/_95857344_p051n5dq.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Ex-John Lewis boss Andy Street defends £1m mayor campaign]]></title>
+      <description><![CDATA[Ex-John Lewis boss Andy Street claims the "substantial" amount spent was "appropriate".]]></description>
+      <link>http://www.bbc.co.uk/news/uk-england-39770578</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-39770578</guid>
+      <pubDate>Mon, 01 May 2017 16:37:37 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/112FD/production/_91079307_street.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[General election: Lib Dems pick Wera Hobhouse for Bath]]></title>
+      <description><![CDATA[Bath Liberal Democrats choose a new candidate for the "very winnable" Tory-held seat.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-england-somerset-39769785</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-england-somerset-39769785</guid>
+      <pubDate>Mon, 01 May 2017 14:51:38 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/138AD/production/_95854008_mediaitem95854006.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Voters' guide]]></title>
+      <description><![CDATA[The UK will have a general election on 8 June. Here's what you need to know.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39631768</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39631768</guid>
+      <pubDate>Tue, 02 May 2017 14:25:43 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1874/production/_95806260_gettyimages-88200785.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Reality Check]]></title>
+      <description><![CDATA[Shadow home secretary Diane Abbott says Labour would fund 10,000 extra police.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39779288</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39779288</guid>
+      <pubDate>Tue, 02 May 2017 12:22:59 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/A010/production/_95867904_gettyimages-657318848.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Blair's legacy]]></title>
+      <description><![CDATA[Tony Blair came to power 20 years ago - how did he change the UK and what is his lasting legacy?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39717751</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39717751</guid>
+      <pubDate>Sun, 30 Apr 2017 23:45:10 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1633F/production/_95834909_gettyimages-51424813.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Doing a deal]]></title>
+      <description><![CDATA[UKIP and the Greens are making electoral pacts with rival parties - what's going on?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39748035</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39748035</guid>
+      <pubDate>Mon, 01 May 2017 12:47:34 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/99CF/production/_95857393_gettyimages-476151103.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA['Strong leadership']]></title>
+      <description><![CDATA[There is a stark difference between a strong leader and a strong leadership, says Archie Brown.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39748185</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39748185</guid>
+      <pubDate>Sat, 29 Apr 2017 00:52:31 GMT</pubDate>
+      <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/12D57/production/_95834177_thatcher_presser_1987.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[First rung]]></title>
+      <description><![CDATA[A father and son's experiences of starting out on the housing ladder]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39743452</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39743452</guid>
+      <pubDate>Sat, 29 Apr 2017 00:45:22 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6196/production/_95828942_p051c6sy.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Repeat to fade]]></title>
+      <description><![CDATA[The Tories crammed 16 mentions of their election slogan into Prime Minister's Questions - does the tactic work?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39730467</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39730467</guid>
+      <pubDate>Thu, 27 Apr 2017 16:41:08 GMT</pubDate>
+      <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/0E07/production/_95819530_mediaitem95818239.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Cash from crowds]]></title>
+      <description><![CDATA[Election candidates are turning to crowdfunding sites to raise money for the snap general election.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39732104</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39732104</guid>
+      <pubDate>Fri, 28 Apr 2017 10:45:24 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/551E/production/_95809712_fishfingercropped.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Best clashes]]></title>
+      <description><![CDATA[With a general election looming, this could be the final time the two party leaders lock horns.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39717139</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39717139</guid>
+      <pubDate>Wed, 26 Apr 2017 10:34:31 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2E35/production/_95792811_maycorb.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Party-by-party: Brexit]]></title>
+      <description><![CDATA[The issue of Brexit looms large over the general election - here's where the parties stand.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39665835</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39665835</guid>
+      <pubDate>Tue, 25 Apr 2017 07:13:44 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/0FF6/production/_95768040_4215315a-e08c-45fa-b317-8ef42e93e323.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Reality Check]]></title>
+      <description><![CDATA[How does the cost of the triple-lock compare with other ways of protecting pensions?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39734078</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39734078</guid>
+      <pubDate>Thu, 27 Apr 2017 16:56:54 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/182F5/production/_95816099_gettyimages-157317822.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Reality Check]]></title>
+      <description><![CDATA[Reality Check looks at how much aspects of Labour's NHS proposals could cost.]]></description>
+      <link>http://www.bbc.co.uk/news/health-39720085</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/health-39720085</guid>
+      <pubDate>Wed, 26 Apr 2017 14:01:53 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/509F/production/_95793602_mediaitem95793601.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Cunning plan]]></title>
+      <description><![CDATA[Labour has a clear Brexit plan but some in the party would prefer more robust opposition to the Tory position.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39709403</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39709403</guid>
+      <pubDate>Tue, 25 Apr 2017 15:26:47 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/77AE/production/_95783603_gettyimages-672673704.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Tactical election]]></title>
+      <description><![CDATA[Brexit may encourage more pacts between political parties in the run-up to the general election.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39693277</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39693277</guid>
+      <pubDate>Tue, 25 Apr 2017 09:52:59 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1569B/production/_95770778_gettyimages-472444934.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Reality Check]]></title>
+      <description><![CDATA[The prime minister says the record number of jobs is evidence of her strong leadership.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39710052</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39710052</guid>
+      <pubDate>Tue, 25 Apr 2017 16:06:00 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/4982/production/_95781881_mediaitem95781880.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[May on how Juncker will face 'bloody difficult woman']]></title>
+      <description><![CDATA[Theresa May says she will be "bloody difficult" to European Commission president Jean-Claude Juncker.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39785790</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39785790</guid>
+      <pubDate>Tue, 02 May 2017 16:00:30 GMT</pubDate>
+      <media:thumbnail width="956" height="538" url="http://c.files.bbci.co.uk/B53D/production/_95879364_mediaitem95879363.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Diane Abbott reacts to LBC interview blunder]]></title>
+      <description><![CDATA[The shadow home secretary listened back to her LBC interview, after getting her figures wrong.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39786591</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39786591</guid>
+      <pubDate>Tue, 02 May 2017 17:27:00 GMT</pubDate>
+      <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/132F1/production/_95877587_p051rv6j.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Rudd: On Brexit negotiations leaks]]></title>
+      <description><![CDATA[Home Secretary Amber Rudd says the UK will be more discreet in Brexit negotiations]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39777509</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39777509</guid>
+      <pubDate>Tue, 02 May 2017 07:34:29 GMT</pubDate>
+      <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/4B2E/production/_95864291_p051q2yt.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Election 2017: Theresa May on Juncker Brexit negotiation comments]]></title>
+      <description><![CDATA[Jean-Claude Juncker's reported comments about Brexit are dismissed as “Brussels gossip” by Theresa May.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39780499</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39780499</guid>
+      <pubDate>Tue, 02 May 2017 15:59:57 GMT</pubDate>
+      <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1517D/production/_95879368_p051s65l.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Election 2017: John Woodcock on Corbyn and dissection threat]]></title>
+      <description><![CDATA[John Woodcock faces deselection for saying he does not want Corbyn as the next PM]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39780497</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39780497</guid>
+      <pubDate>Tue, 02 May 2017 14:17:27 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11478/production/_95867707_p051r84j.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Liverpool Labour voters' reasons to stick with Corbyn]]></title>
+      <description><![CDATA[May Day paraders in Liverpool told us what they would say to Labour supporters who are thinking of voting for another party.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-39777828</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-39777828</guid>
+      <pubDate>Tue, 02 May 2017 07:51:41 GMT</pubDate>
+      <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/1BEA/production/_95864170_p051q1w9.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brexit: Juncker dinner account is 'Brussels gossip' - May]]></title>
+      <description><![CDATA[Prime Minister Theresa May dismisses reports of how a dinner went between herself and EC President Jean-Claude Juncker as "Brussels gossip".]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39773133</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39773133</guid>
+      <pubDate>Mon, 01 May 2017 16:37:11 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/12D8B/production/_95859177_p051nyvt.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Election artist Cornelia Parker: I'm interested in 'the voters']]></title>
+      <description><![CDATA[Cornelia Parker announced as nation's election artist]]></description>
+      <link>http://www.bbc.co.uk/news/entertainment-arts-39769439</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/entertainment-arts-39769439</guid>
+      <pubDate>Mon, 01 May 2017 10:45:22 GMT</pubDate>
+      <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/AD57/production/_95857344_p051n5dq.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Brexit: All you need to know about the UK leaving the EU]]></title>
+      <description><![CDATA[A guide to how the UK will leave the European Union following the 23 June referendum vote.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-32810887</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-32810887</guid>
+      <pubDate>Tue, 25 Apr 2017 11:54:39 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/32E7/production/_89713031_gettyflags.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Election 2017: Which MPs are standing down, and who might be standing?]]></title>
+      <description><![CDATA[Who is joining George Osborne in stepping down as an MP, and who plans to return?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39644473</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39644473</guid>
+      <pubDate>Tue, 02 May 2017 14:52:39 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3E3E/production/_95743951_c37b4427-ac4c-4752-b445-064698ca9884.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who's Who: Theresa May's cabinet]]></title>
+      <description><![CDATA[Theresa May is forming her government after becoming prime minister. Who is in - and out - of her first cabinet?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-36785814</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-36785814</guid>
+      <pubDate>Thu, 14 Jul 2016 19:52:54 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15D17/production/_90376398_may10.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Shadow cabinet: The comings and goings under Corbyn, and the current line-up]]></title>
+      <description><![CDATA[Labour's top team has had several incarnations of late, and high turnover in four particular roles.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-37509889</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37509889</guid>
+      <pubDate>Sat, 11 Feb 2017 11:25:59 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/4700/production/_94267181_gettyimages-629945736-1.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The Jeremy Corbyn Story: Profile of Labour leader]]></title>
+      <description><![CDATA[A profile of Jeremy Corbyn - the radical left wing MP who has now seen off a challenge to his leadership of the Labour Party.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-34184265</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-34184265</guid>
+      <pubDate>Sat, 24 Sep 2016 13:51:44 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/15F68/production/_85506998_gettyimages-487151354.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Political party conferences 2016: At-a-glance guide]]></title>
+      <description><![CDATA[The best bits from the 2016 party conference season.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-37428384</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37428384</guid>
+      <pubDate>Mon, 17 Oct 2016 15:19:54 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/93C8/production/_91323873_mediaitem91323872.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Who's staying and who's going in the shadow cabinet?]]></title>
+      <description><![CDATA[A string of members of Jeremy Corbyn's shadow cabinet have quit and Hilary Benn has been sacked. Who has gone and who remains? Here's a quick guide.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-36633158</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-36633158</guid>
+      <pubDate>Tue, 28 Jun 2016 17:43:15 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1522C/production/_90327568_mediaitem90327567.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[At-a-glance: Guide to Labour 2016 conference agenda]]></title>
+      <description><![CDATA[An at-a-glance guide to Labour's 2016 party conference agenda.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-37449626</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-37449626</guid>
+      <pubDate>Sat, 24 Sep 2016 12:56:32 GMT</pubDate>
+      <media:thumbnail width="768" height="432" url="http://c.files.bbci.co.uk/128BE/production/_91366957_mediaitem91366956.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[The referendum result in maps and charts]]></title>
+      <description><![CDATA[How did the Leave camp clinch victory in the referendum on the UK's membership of the EU after what was a very closely fought contest?]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-36616028</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-36616028</guid>
+      <pubDate>Fri, 24 Jun 2016 13:41:22 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11632/production/_90081217_eu_ref_results_map_promo976.png"/>
+    </item>
+    <item>
+      <title><![CDATA[Who is Michel Barnier? Meet the EU's chief Brexit negotiator]]></title>
+      <description><![CDATA[Michel Barnier, who has moved seamlessly between jobs in Paris and Brussels, is the EU's chief Brexit negotiator.]]></description>
+      <link>http://www.bbc.co.uk/news/world-europe-37542204</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/world-europe-37542204</guid>
+      <pubDate>Mon, 03 Oct 2016 11:41:58 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/36BA/production/_91501041_barnierindexreut14.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[In full: May's Brexit statement]]></title>
+      <description><![CDATA[The Prime Minister described the invoking of Article 50 as a "historic moment from which there can be no turning back."]]></description>
+      <link>http://www.bbc.co.uk/news/uk-politics-39441207</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-politics-39441207</guid>
+      <pubDate>Thu, 30 Mar 2017 08:56:57 GMT</pubDate>
+      <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B53E/production/_95389364_p04ygyqv.jpg"/>
+    </item>
+    <item>
+      <title><![CDATA[Labour reshuffle: Diane Abbott made shadow home secretary]]></title>
+      <description><![CDATA[Diane Abbott becomes shadow home secretary as part of a Labour front bench reshuffle but critics say it has failed to unify the party.]]></description>
+      <link>http://www.bbc.co.uk/news/uk-37579687</link>
+      <guid isPermaLink="true">http://www.bbc.co.uk/news/uk-37579687</guid>
+      <pubDate>Fri, 07 Oct 2016 06:57:20 GMT</pubDate>
+      <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/14D7/production/_91553350_corbyn_abbott_pa.jpg"/>
+    </item>
+  </channel>
+<link><title>Q: </title><url>questions_layout.php#Question</url></link></rss>

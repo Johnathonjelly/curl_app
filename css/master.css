@@ -1,0 +1,22 @@
+.rss-form {
+  padding: 50px;
+  margin: 0 auto;
+  max-width: 350px;
+}
+
+html {
+  max-width: 100vw;
+}
+
+.large {
+  min-width: 240px;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td, tr {
+  border: 1px solid black;
+  max-width: 300px;
+}

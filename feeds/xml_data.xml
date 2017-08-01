@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" ?> <rss version="2.0" xml:base="http://www.nasa.gov/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/"> <channel> <title>Education News</title>
+ <description>A RSS feed containing the latest education related news from NASA.</description>
+ <link>http://www.nasa.gov/</link>
+ <atom:link rel="self" href="http://www.nasa.gov/rss/dyn/educationnews.rss" />
+ <language>en-us</language>
+ <managingEditor>sandra.b.may@nasa.gov</managingEditor>
+ <webMaster>brian.dunbar@nasa.gov</webMaster>
+ <item> <title>NASA Launches National Lab Day</title>
+ <link>http://www.nasa.gov/press-release/nasa-launches-national-lab-day</link>
+ <description>NASA’s Glenn Research Center in Cleveland will launch its fifth annual National Lab Day on Friday, May 12 from 10 a.m. to 2 p.m. at Lewis Field, 21000 Brookpark Road.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/plane_grc_background.jpg?itok=kCRjDjrf" length="5980447" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-launches-national-lab-day</guid>
+ <pubDate>Mon, 08 May 2017 13:36 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>MIT to Participate in Live Q&amp;A with International Space Station</title>
+ <link>http://www.nasa.gov/press-release/mit-to-participate-in-live-qa-with-international-space-station</link>
+ <description>Massachusetts Institute of Technology (MIT) students will participate in a live question-and-answer session with an alumnus astronaut aboard the International Space Station on Wednesday, May 10.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/jsc2017e043852.jpg?itok=ISb_21pG" length="1835571" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/mit-to-participate-in-live-qa-with-international-space-station</guid>
+ <pubDate>Mon, 08 May 2017 12:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Astronaut Peggy Whitson Talks STEM Education with President Trump</title>
+ <link>http://www.nasa.gov/press-release/nasa-astronaut-peggy-whitson-talks-stem-education-with-president-trump</link>
+ <description>NASA astronaut Peggy Whitson, currently living and working aboard the International Space Station, broke the record Monday for cumulative time spent in space by a U.S. astronaut – an occasion that was celebrated with a phone call from President Donald Trump, First Daughter Ivanka Trump, and fellow astronaut Kate Rubins.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/potus_iss_call-4.jpg?itok=a7Qhx0ks" length="1568707" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-astronaut-peggy-whitson-talks-stem-education-with-president-trump</guid>
+ <pubDate>Mon, 24 Apr 2017 10:15 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>How to See President’s Call to International Space Station on April 24</title>
+ <link>http://www.nasa.gov/press-release/how-to-see-president-s-call-to-international-space-station-on-april-24</link>
+ <description>President Donald Trump, First Daughter Ivanka Trump, and NASA astronaut Kate Rubins will make a special 20-minute, Earth-to-space call at 10 a.m. EDT Monday, April 24, to personally congratulate NASA astronaut Peggy Whitson for her record-breaking stay aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/whitson-spacewalk.jpg?itok=2fGpmU2t" length="720870" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/how-to-see-president-s-call-to-international-space-station-on-april-24</guid>
+ <pubDate>Fri, 21 Apr 2017 15:04 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>President Trump Makes Special Long-Distance Call to Record Breaking American Astronaut</title>
+ <link>http://www.nasa.gov/press-release/president-trump-makes-special-long-distance-call-to-record-breaking-american-astronaut</link>
+ <description>President Donald Trump, First Daughter Ivanka Trump, and NASA astronaut Kate Rubins will make a special Earth-to-space call Monday, April 24, from the Oval Office to personally congratulate NASA astronaut Peggy Whitson for her record-breaking stay aboard the International Space Station.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/whitson_on_station.jpg?itok=GDX904Ex" length="745516" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/president-trump-makes-special-long-distance-call-to-record-breaking-american-astronaut</guid>
+ <pubDate>Wed, 19 Apr 2017 12:20 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Scientists to Discuss Search for Habitable Planets, Signs of Life off Earth</title>
+ <link>http://www.nasa.gov/press-release/nasa-scientists-to-discuss-search-for-habitable-planets-signs-of-life-off-earth</link>
+ <description>NASA scientists from across the agency will present their latest findings and perspectives on topics ranging from the origins and evolution of life on Earth to the search for habitable environments and life in our solar system and beyond during the 2017 Astrobiology Science Conference, April 24-28 in Mesa, Arizona.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/famelabmary_small.jpg?itok=cCtXZUSh" length="707947" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-scientists-to-discuss-search-for-habitable-planets-signs-of-life-off-earth</guid>
+ <pubDate>Wed, 19 Apr 2017 10:11 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Celebrates Earth Day with Public Events, Online Activities</title>
+ <link>http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-public-events-online-activities-0</link>
+ <description>This year, NASA will celebrate Earth Day, April 22, with a variety of live and online activities Thursday and Friday, April 20-21, to engage the public in the agency’s mission to better understand and protect our home planet.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/m17-044.jpg?itok=kL2uHwAq" length="1210474" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-celebrates-earth-day-with-public-events-online-activities-0</guid>
+ <pubDate>Mon, 17 Apr 2017 15:49 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>Watch World’s First Live 360 Degree Video of Rocket Launch April 18</title>
+ <link>http://www.nasa.gov/press-release/watch-world-s-first-live-360-degree-video-of-rocket-launch-april-18</link>
+ <description>NASA, in coordination with United Launch Alliance (ULA) and Orbital ATK, will broadcast the world’s first live 360-degree stream of a rocket launch.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/ksc-315d-0475_0177_0.jpg?itok=U0InGEvz" length="4092550" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/watch-world-s-first-live-360-degree-video-of-rocket-launch-april-18</guid>
+ <pubDate>Fri, 14 Apr 2017 13:50 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>NASA Invests in 22 Visionary Exploration Concepts</title>
+ <link>http://www.nasa.gov/press-release/nasa-invests-in-22-visionary-exploration-concepts</link>
+ <description>NASA is preparing for a future that could include soft robotic spacecraft with flexible surfaces that can anchor to an asteroid, and an artificial gravity device for long-duration, deep space missions, along with other technologies that so far has been limited to the realm of science fiction.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/niac_2017_phase_i_phase_ii_.jpg?itok=OEnRjBZL" length="2539163" type="image/jpeg" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/nasa-invests-in-22-visionary-exploration-concepts</guid>
+ <pubDate>Thu, 06 Apr 2017 15:21 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+ <item> <title>University Research Teams to Study Potential Aeronautical Innovations</title>
+ <link>http://www.nasa.gov/press-release/university-research-teams-to-study-potential-aeronautical-innovations</link>
+ <description>Imagine an aircraft structure that can change its shape in flight to reduce the sonic boom noise produced by supersonics airplanes. Or imagine an airliner that can take-off and fly with a quiet and energy efficient electric propulsion system.</description>
+ <enclosure url="http://www.nasa.gov/sites/default/files/styles/1x1_cardfeed/public/thumbnails/image/university-concept.png?itok=PfdwigfE" length="4761732" type="image/png" />
+ <guid isPermaLink="false">http://www.nasa.gov/press-release/university-research-teams-to-study-potential-aeronautical-innovations</guid>
+ <pubDate>Tue, 04 Apr 2017 16:01 EDT</pubDate>
+ <source url="http://www.nasa.gov/rss/dyn/educationnews.rss">Education News</source>
+</item>
+</channel>
+</rss>
