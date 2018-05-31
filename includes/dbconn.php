@@ -6,7 +6,7 @@ class Connection {
   public function Connection() {
     $conn = NULL;
       try {
-        $conn = new PDO("mysql:host=localhost;dbname=curl_rss", "root", "");
+        $conn = new PDO("mysql:host=localhost;dbname=REDACTED", "REDACTED", "REDACTED");
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
       } catch(PDOException $e) {
         echo "ERROR" . $e->getMessage();
